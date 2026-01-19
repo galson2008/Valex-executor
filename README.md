@@ -1,2 +1,2 @@
 # Valex-executor
-Valex Executor is an roblox ch3at
+Valex Executor is a roblox ch3at
